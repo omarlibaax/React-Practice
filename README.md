@@ -1,16 +1,106 @@
-# React + Vite
+# React Jobs Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React Developer Jobs Listing Website UI** built using **HTML, Tailwind CSS, and Font Awesome**.
+This project allows developers to browse job listings and employers to post new jobs.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* Responsive modern UI
+* Job listing cards
+* Developer & Employer sections
+* Navigation bar
+* Hero section
+* Job details preview
+* Tailwind CSS styling
+* Font Awesome icons
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* HTML5
+* Tailwind CSS
+* JavaScript
+* Font Awesome
+
+---
+
+## 📂 Project Structure
+
+```
+react-jobs/
+│
+├── index.html
+├── jobs.html
+├── add-job.html
+├── job.html
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── main.js
+│
+├── images/
+│   └── logo.png
+│
+└── favicon.ico
+```
+
+---
+
+## 💻 Installation
+
+1. Clone the repository
+
+```
+git clone https://github.com/yourusername/react-jobs.git
+```
+
+2. Open the project folder
+
+```
+cd react-jobs
+```
+
+3. Open **index.html** in your browser.
+
+---
+
+## 📸 Preview
+
+React Jobs helps developers easily **find React job opportunities** and allows companies to **post new positions**.
+
+---
+
+## 📌 Pages Included
+
+* Home Page
+* Jobs Page
+* Add Job Page
+* Job Details Page
+
+---
+
+## 🎯 Future Improvements
+
+* Add React functionality
+* Connect to API for real jobs
+* Add job search feature
+* Add authentication
+* Backend integration
+
+---
+
+## 👨‍💻 Author
+
+**Omar Abdinur Ahmed**
+Graphic Designer & Web Developer
+
+---
+
+## ⭐ Support
+
+If you like this project, please **give it a star on GitHub** ⭐
